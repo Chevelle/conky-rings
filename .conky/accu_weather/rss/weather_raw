@@ -1,0 +1,56 @@
+<?xml version = "1.0"?>
+<rss version="2.0">
+<channel>
+<title>Lanse, MI - AccuWeather.com Forecast</title>
+<link>http://www.accuweather.com/get/weather?location=333649</link>
+
+		<description>AccuWeather.com Forecast &amp; Current Conditions</description>
+		<ttl>60</ttl>
+		<copyright>Copyright 2013, AccuWeather, Inc., All rights reserved. For personal use only.</copyright>
+		<pubDate>Sun, 03 Feb 2013 23:18:41 GMT</pubDate> 
+		<language>en-us</language> 
+		<image>
+			<title>Lanse, MI - AccuWeather.com Forecast</title>
+<link>/en/us/lanse-mi/49946/weather-forecast/333649</link>
+
+			<description>AccuWeather.com The Best Weather on the Web!</description>
+			<url>http://vortex.accuweather.com/adc2004/pub/images/logos/adc_logo_187.gif</url>
+			<width>144</width>
+			<height>19</height>
+		</image>		
+		<item>
+			<title>Currently: Intermittent Clouds: 8F</title> 
+			<link>http://www.accuweather.com/en/us/lanse-mi/49946/weather-forecast/333649</link>
+			<guid isPermaLink="false">http://www.accuweather.com/en/us/lanse-mi/49946/weather-forecast/333649</guid>
+			
+				<description>Currently in Lanse, MI: 8 &#176;F and Intermittent Clouds
+				&lt;img src="http://vortex.accuweather.com/phoenix2/images/common/icons/36_31x31.gif"&gt;
+				</description> 			
+			
+			<pubDate>Sun, 03 Feb 2013 23:18:41 GMT</pubDate>
+		</item>
+		
+			<item>
+				<title>2/3/2013 Forecast</title>
+				<link>http://www.accuweather.com/en/us/lanse-mi/49946/daily-weather-forecast/333649?day=1</link> 
+				<guid isPermaLink="false">http://www.accuweather.com/en/us/lanse-mi/49946/daily-weather-forecast/333649?day=1</guid>
+				<description>High: 12 F Low: -1 F A snow shower this afternoon &lt;img src="http://vortex.accuweather.com/phoenix2/images/common/icons/19_31x31.gif" &gt;</description>
+				<pubDate>Sun, 03 Feb 2013 23:18:41 GMT</pubDate>
+			</item>
+		
+			<item>
+				<title>2/4/2013 Forecast</title>
+				<link>http://www.accuweather.com/en/us/lanse-mi/49946/daily-weather-forecast/333649?day=2</link> 
+				<guid isPermaLink="false">http://www.accuweather.com/en/us/lanse-mi/49946/daily-weather-forecast/333649?day=2</guid>
+				<description>High: 12 F Low: 0 F Frigid with snow showers &lt;img src="http://vortex.accuweather.com/phoenix2/images/common/icons/31_31x31.gif" &gt;</description>
+				<pubDate>Sun, 03 Feb 2013 23:18:41 GMT</pubDate>
+			</item>
+		<item>
+<title>The AccuWeather.com RSS Center</title>
+<description>To discover additional weather feeds, visit the AccuWeather.com RSS Center at http://www.accuweather.com/en/downloads</description>
+<link>http://www.accuweather.com/en/downloads</link>
+<guid isPermaLink="false">http://www.accuweather.com/en/downloads</guid>
+<pubDate>Sun, 03 Feb 2013 23:18:41 GMT</pubDate>
+</item>
+</channel>
+</rss>
